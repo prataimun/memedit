@@ -5,7 +5,7 @@ x = document.getElementsByTagName("BODY")[0]
 x.style.backgroundColor = "yellow"
 
 hello = () ->
-console.log "hello vscode!"
+  console.log "hello vscode!"
   x = document.getElementsByTagName("BODY")[0]
   x.style.backgroundColor = "white"
   x.style.backgroundColor = "green"

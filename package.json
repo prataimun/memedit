@@ -1,24 +1,21 @@
 {
-  "name": "electron-quick-start",
+  "name": "memedit",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "spaced repition and flashcard editor",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/prataimun/memedit",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "spaced repition",
+    "flashcard",
+    "language",
+    "memory"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "prataimun",
   "devDependencies": {
     "coffee-script": "~1.12.5",
-    "devtron": "^1.4.0",
     "electron": "~1.6.2"
   }
 }
