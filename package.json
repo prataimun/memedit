@@ -13,7 +13,7 @@
     "language",
     "memory"
   ],
-  "author": "prataimun",
+  "author": "Victor Johnsson",
   "devDependencies": {
     "coffee-script": "~1.12.5",
     "electron": "~1.6.2"
